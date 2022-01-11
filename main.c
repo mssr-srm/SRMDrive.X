@@ -123,7 +123,7 @@ int main(void)
 
     initadc1();
  
-    printf("Hello!\n");
+    printf("Hello more!\n");
     while (1)
     {
         //printf("hi!\n");
